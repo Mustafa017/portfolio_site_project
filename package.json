@@ -1,22 +1,22 @@
 {
-  "name": "portfolio2",
-  "version": "1.0.0",
-  "description": "\"My Portfolio site\"",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Mustafa Khamisi",
-  "license": "ISC",
-  "devDependencies": {
-    "devicons": "^1.8.0",
-    "font-awesome": "^4.7.0",
-    "grunt": "^1.0.3",
-    "grunt-contrib-clean": "^1.1.0",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-mkdir": "^1.0.0",
-    "grunt-responsive-images": "^1.10.1",
-    "jquery": "^3.3.1",
-    "load-grunt-tasks": "^4.0.0"
-  }
+    "name": "portfolio2",
+    "version": "1.0.0",
+    "description": "\"My Portfolio site\"",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mustafa Khamisi",
+    "license": "ISC",
+    "devDependencies": {
+        "devicons": "^1.8.0",
+        "font-awesome": "^4.7.0",
+        "grunt": "^1.0.3",
+        "grunt-contrib-clean": "^1.1.0",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-mkdir": "^1.0.0",
+        "grunt-responsive-images": "^1.10.1",
+        "jquery": "^3.3.1",
+        "load-grunt-tasks": "^4.0.0"
+    }
 }
