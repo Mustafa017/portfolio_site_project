@@ -48,6 +48,19 @@ module.exports = function (grunt){
                     dest: 'img/fixed'
                 }]
             },
+            font_awesome: {
+                files: [{
+                    expand: true,
+                    cwd: 'node_modules/font-awesome/css/font-awesome.min.css',
+                    src: ['*.min.css'],
+                    dest: 'css/'
+                },{
+                    expand: true,
+                    cwd: 'node_modules/font-awesome/fonts/',
+                    src: ['*'],
+                    dest: 'fonts/'
+                }]
+            },
             devicons: {
                 files: [{
                     expand: true,
