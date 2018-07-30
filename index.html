@@ -213,10 +213,10 @@
 
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
     <script>
-        let icon_svg = $(".menu_icon");
-        let menu = $(".nav");
-        icon_svg.click(function(e){
-            menu.toggleClass("open");
+        let icon_svg = document.querySelector(".menu_icon");
+        let menu = document.querySelector(".nav");
+        icon_svg.addEventListener('click',function(e){
+            menu.classList.toggle("open");
             e.preventDefault();
         });
     </script>
