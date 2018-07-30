@@ -3,8 +3,10 @@
 ## Table of Contents
 
 * [Dependencies](#dependencies)
-* [Instructions](#Getting-Started)
+* [Getting Started](#Getting-Started)
 * [Contributing](#contributing)
+
+## Dependencies
 
 List of libraries, tools, etc needed (e.g. jQuery, node.js, grunt, etc)
 
